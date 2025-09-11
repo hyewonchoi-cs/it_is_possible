@@ -7,7 +7,7 @@
    - Cybersecurity
 
 2. Target User (* 누구를 위해)
-   - 20~30대
+   - 고령층
 
 3. Problem to Solve (* 누구의 어떤 문제해결 위해)
    - 스마트폰 사용자가 문자,메시지,URL을 통해 피싱 공격을 받을 위험이 높음.
