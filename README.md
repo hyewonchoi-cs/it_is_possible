@@ -12,20 +12,19 @@
 
 🛠️ 기술 스택
 - AI/모델: 
-  - 온디바이스에서 동작 가능한 경량화 언어 모델(예: Phi-3-mini, Mistral 등 후보) 
-  - 음성 인식(STT) 모델(Whisper-small 등 경량 버전) 
+  - 온디바이스에서 동작 가능한 경량화 언어 모델
   - 기본적인 규칙 기반 탐지 로직 병행
 
-- **온디바이스 추론**: 
+- 온디바이스 추론: 
   - 모바일/웹 환경에 맞춘 추론 프레임워크 
-  - (예: TensorFlow Lite, ONNX Runtime, Core ML 중 선택 예정)
+  - (TensorFlow Lite, ONNX Runtime, Core ML 중 선택 예정)
 
-- **백엔드(보조 역할)**: 
-  - 퍼블릭 클라우드(AWS, GCP, Azure 등) 활용  
-  - 모델/룰 업데이트 배포, 익명화된 탐지 통계 관리, 간단한 API 제공
+- 백엔드(보조 역할): 
+  - 퍼블릭 클라우드(AWS) 활용  
+  - 모델/룰 업데이트 배포, 익명화된 탐지 통계 관리, 추가 API 제공
 
-- **프론트엔드/앱**: 
-  - 모바일 앱(Android Kotlin / iOS Swift) 개발 
+- 프론트엔드/앱: 
+  - 모바일 앱(React Native + Expo) 개발 
   - 웹 브라우저 확장 프로그램(Chrome/Firefox Extension) 후보
 
 
