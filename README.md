@@ -53,10 +53,8 @@ AI는 이를 확장·시각화·음성화하여 아이가 즉시 의미를 전�
 - **Plotly** → 발달 리포트 시각화  
 - **PostgreSQL / Firebase** → 사용자 정보, 카드, 로그 데이터 저장 및 동기화  
 
-### 📱 Frontend / App
-- **React Native / Expo** → 아동용 카드형 인터페이스, 문장 조합 및 실시간 피드백  
-- **Flutter (Optional)** → 프로토타입 또는 교사용 뷰 설계  
-- **Firebase Authentication** → 로그인, 사용자별 데이터 연동  
+### 📱 Frontend
+- **React Native / Expo** → 아동용 카드형 인터페이스, 문장 조합 및 실시간 피드백    
 
 ---
 
