@@ -29,10 +29,11 @@
 4. Technology (* 어떤 기술을 사용해서)
 - Python (FastAPI)
 - OpenAI GPT / Google Gemini API
-- Stable Diffusion / DALL·E
-- Google Cloud TTS / Naver Clova Voice 
+- Stable Diffusion 
+- Naver Clova Voice 
 - React Native / Expo
-- Firebase / PostgreSQL
+- Spring
+- Firebase / MySQL
 - pandas + scikit-learn + Plotly
 
   
