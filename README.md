@@ -44,15 +44,17 @@ AI는 이를 확장·시각화·음성화하여 아이가 즉시 의미를 전�
 
 ### 🧩 AI / 모델
 - **OpenAI GPT / Google Gemini API** → 단어 확장, 문장 자동 완성, 감정 문장 생성  
-- **Stable Diffusion / DALL·E** → 문장 기반 아동 친화적 이미지 생성  
-- **Google Cloud TTS / Naver Clova Voice** → 완성 문장의 개인화 음성 출력  
+- **Stable Diffusion** → 문장 기반 아동 친화적 이미지 생성  
+- **Naver Clova Voice** → 완성 문장의 개인화 음성 출력  
 
 ### 🖥️ Backend / Server
+- **Spring (Java)** → 주요 비즈니스 로직 및 사용자 요청 처리 
 - **FastAPI (Python)** → AI 통신 및 데이터 관리 서버  
 - **pandas / scikit-learn** → 사용자별 단어·문장 사용 패턴 분석  
 - **Plotly** → 발달 리포트 시각화  
-- **PostgreSQL / Firebase** → 사용자 정보, 카드, 로그 데이터 저장 및 동기화
-- **Spring / aws / docker** 
+- **MySQL / Firebase** → 사용자 정보, 카드, 로그 데이터 저장 및 동기화
+- **aws / docker** →서버 배포 및 컨테이너 기반 클라우드 인프라 구축, 안정적 운영 환경 제공  
+
 
 ### 📱 Frontend
 - **React Native / Expo** → 아동용 카드형 인터페이스, 문장 조합 및 실시간 피드백    
