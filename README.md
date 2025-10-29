@@ -51,7 +51,8 @@ AI는 이를 확장·시각화·음성화하여 아이가 즉시 의미를 전�
 - **FastAPI (Python)** → AI 통신 및 데이터 관리 서버  
 - **pandas / scikit-learn** → 사용자별 단어·문장 사용 패턴 분석  
 - **Plotly** → 발달 리포트 시각화  
-- **PostgreSQL / Firebase** → 사용자 정보, 카드, 로그 데이터 저장 및 동기화  
+- **PostgreSQL / Firebase** → 사용자 정보, 카드, 로그 데이터 저장 및 동기화
+- **Spring / aws / docker** 
 
 ### 📱 Frontend
 - **React Native / Expo** → 아동용 카드형 인터페이스, 문장 조합 및 실시간 피드백    
